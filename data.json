@@ -350,25 +350,27 @@
     ],
     "solutions":[
         {
-            "image":"image/case.png",
+            "image":"image/customer.jpg",
             "title":"Customer Service Excellence",
             "body":"We prioritize personalized support to ensure a smooth and satisfying experience for every client. Our dedicated team is alwaysready to address concerns and provide timely solutions.",
-            "number":"Ecoreme Clients",
-            "numberBody":"Intrinsically integrate diverse action items for team building best practices. Globally supply covalent ROI via e-business markets, assertively."
+            "icon":"image/rate.png",
+            "numbertitle":"Affordable Rates",
+            "numberBody":"We offer competitive pricing without compromising the quality of service. Our cost-effective solutions help busimesses manage logistics within budget."
         },
         {
-            "image":"image/dice.png",
-            "title":"Improve with Ecoreme",
-            "body":"No matter how well your business runs, there is always room for improvement, and Ecoreme are the experts for this.",
-            "number":"Ecoreme Projects",
-            "numberBody":"Intrinsically integrate diverse action items for team building best practices. Globally supply covalent ROI via e-business markets, assertively."
+            "image":"Security",
+            "body":"Your shipments are safeguarded with advanced tracking and security measures. We ensure that your cargo reaches its destination intact and on time.",
+            "icon":"image/compliance.png",
+            "numbertitle":"Compliance",
+            "numberBody":"Our operations adhere to all local and international regulations. We ensure ful compliance with industry standards and customs requirements."
         },
         {
-            "image":"image/volume.png",
-            "title":"Ecoreme And Growth",
-            "body":"Under the wings of Ecoreme, you will witness a business growth in a short amount of time. A week is all you need.",
-             "number":"Ecoreme Solutions",
-            "numberBody":"Intrinsically integrate diverse action items for team building best practices. Globally supply covalent ROI via e-business markets, assertively."
+            "image":"image/high.png",
+            "title":"Highly Available",
+            "body":"Our services are operations 24/7 to meet your logistics needs anytime. We guarantee consistent availability, no matter the time or location.",
+            "icon":"image/flexibility.webp",
+            "numbertitle":"Flexibility",
+            "numberBody":"We adapt to your specific requirements, offering tailored solutions for various logistics challenges. Our flexible approach ensures seamless operations in changing conditions."
         }
     ],
     "companys":[

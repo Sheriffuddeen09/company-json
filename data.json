@@ -359,7 +359,8 @@
             "numberBody":"We offer competitive pricing without compromising the quality of service. Our cost-effective solutions help busimesses manage logistics within budget."
         },
         {
-            "image":"Security",
+            "image":"image/security.png",
+            "title":"Security",
             "body":"Your shipments are safeguarded with advanced tracking and security measures. We ensure that your cargo reaches its destination intact and on time.",
             "icon":"image/compliance.png",
             "numbertitle":"Compliance",

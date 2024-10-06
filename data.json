@@ -36,6 +36,23 @@
        "click": "LEARN MORE"
     }
 ],
+"rider":[
+    {
+        "id":1,
+        "images":"image/satelites.webp",
+        "title":"Shipment"
+    },
+    {
+        "id":2,
+        "images":"image/spacelinkb.jpg",
+        "title":"Pack Rider"
+    },
+    {
+        "id":3,
+        "images":"image/spacerocket.jpg",
+        "title":"Bulk Deliveries"
+    }
+],
 "welcomes":[
     
     {
@@ -190,7 +207,7 @@
         {
             "id":1,
             "body":"Reliable Logistics at Your Doorstep! Need fast, secure, and hassle-free PICKUP or DELIVERY in Lagos?.",
-            "main":"Ecoreme Logistics offers seamless service for all your shipping needs! Whether it's a single package or bulk orders, we ensure timely and efficient service at competitive rates.",
+            "main":"Ecoreme Logistics offers seamless service for all your shipping needs! Whether it's a single package pr bulk orders, we ensure timely and efficient service at competitive rates.",
             "trust":" Trust us to handle your deliveries with care, every time"
         }
     ],
@@ -353,10 +370,10 @@
         {
             "image":"image/customer.jpg",
             "title":"Customer Service Excellence",
-            "body":"We prioritize personalized support to ensure a smooth and satisfying experience for every client. Our dedicated team is always ready to address concerns and provide timely solutions.",
+            "body":"We prioritize personalized support to ensure a smooth and satisfying experience for every client. Our dedicated team is alwaysready to address concerns and provide timely solutions.",
             "icon":"image/rate.png",
             "numbertitle":"Affordable Rates",
-            "numberBody":"We offer competitive pricing without compromising the quality of service. Our cost-effective solutions help businesses manage logistics within budget."
+            "numberBody":"We offer competitive pricing without compromising the quality of service. Our cost-effective solutions help busimesses manage logistics within budget."
         },
         {
             "image":"image/security.png",
@@ -364,7 +381,7 @@
             "body":"Your shipments are safeguarded with advanced tracking and security measures. We ensure that your cargo reaches its destination intact and on time.",
             "icon":"image/compliance.png",
             "numbertitle":"Compliance",
-            "numberBody":"Our operations adhere to all local and international regulations. We ensure full compliance with industry standards and customs requirements."
+            "numberBody":"Our operations adhere to all local and international regulations. We ensure ful compliance with industry standards and customs requirements."
         },
         {
             "image":"image/high.png",
@@ -484,7 +501,7 @@
     {
         "id":1,
         "image":"review/image-3.jpeg",
-        "star":"review/stars.png",
+        "star":"review/stars.png",commit
         "user":"Chika Ugo",
         "body":"There is no doubt that logistics plays a vital role in our economy and its importance is only increasing as businesses become more globalized. Without efficient logistics, it would be impossible for business to move products around the world a timely and cost-effective manner",
         "icon":"review/face.png"

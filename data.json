@@ -39,17 +39,17 @@
 "rider":[
     {
         "id":1,
-        "images":"image/satelites.webp",
-        "title":"Shipment"
+        "images":"image/rider.jpg",
+        "title":"Logistics Rider"
     },
     {
         "id":2,
-        "images":"image/spacelinkb.jpg",
-        "title":"Pack Rider"
+        "images":"image/shipment.jpg",
+        "title":"Shipment"
     },
     {
         "id":3,
-        "images":"image/spacerocket.jpg",
+        "images":"image/mover.webp",
         "title":"Bulk Deliveries"
     }
 ],
@@ -501,7 +501,7 @@
     {
         "id":1,
         "image":"review/image-3.jpeg",
-        "star":"review/stars.png",commit
+        "star":"review/stars.png",
         "user":"Chika Ugo",
         "body":"There is no doubt that logistics plays a vital role in our economy and its importance is only increasing as businesses become more globalized. Without efficient logistics, it would be impossible for business to move products around the world a timely and cost-effective manner",
         "icon":"review/face.png"
